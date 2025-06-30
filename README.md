@@ -1,7 +1,7 @@
 # initial commit
 # second commit
 # third Commit
-
+# manualcommit
 git add <filename> - staging 
  
  ##Command	                                  ##Affects                           ## Use Case	                             ## What It Does
@@ -19,3 +19,4 @@ git diff -> shows unstaged changes
 git diff --name-only -> shows unstaged changes file names only
 git diff --cached -> shows staged changes
 git diff --cached --name-only  -> shows staged changes file names only
+
