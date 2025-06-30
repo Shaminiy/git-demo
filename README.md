@@ -8,6 +8,7 @@
 # rebase 
 # rebase commits and test 
 # rebase commit
+# rebase commit
 git add <filename> - staging 
  
  ##Command	                                  ##Affects                           ## Use Case	                             ## What It Does
