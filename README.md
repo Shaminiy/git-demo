@@ -2,6 +2,7 @@
 # second commit
 # third Commit
 # manualcommit
+# rebase Commit
 git add <filename> - staging 
  
  ##Command	                                  ##Affects                           ## Use Case	                             ## What It Does
