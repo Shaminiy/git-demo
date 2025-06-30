@@ -3,6 +3,7 @@
 # third Commit
 # manualcommit
 # rebase Commit
+# rebase test
 git add <filename> - staging 
  
  ##Command	                                  ##Affects                           ## Use Case	                             ## What It Does
