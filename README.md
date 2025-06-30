@@ -4,6 +4,7 @@
 # manualcommit
 # rebase Commit
 # rebase test
+# test
 git add <filename> - staging 
  
  ##Command	                                  ##Affects                           ## Use Case	                             ## What It Does
